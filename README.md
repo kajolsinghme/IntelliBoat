@@ -18,10 +18,10 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/kajolsinghme/IntelliBoat.git
-````
+   ````
 
 2. Install dependencies:
-
+   ```
    cd IntelliBoat
    npm install
    ````

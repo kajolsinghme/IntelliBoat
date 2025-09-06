@@ -1,4 +1,3 @@
-````markdown
 # IntelliBoat
 
 **IntelliBoat** is a MERN stack AI assistant that can answer user queries, generate text, and even create images based on prompts.
@@ -51,5 +50,3 @@ Feel free to open issues or submit pull requests!
 ## License
 
 This project is licensed under the MIT License.
-
-````

@@ -25,24 +25,24 @@
    ```bash
    cd IntelliBoat
    npm install
-   ```
+   ````
 3. Create a `.env` file and add your environment variables:
 
    ```
    PORT=5000
    MONGO_URI=<your_mongodb_uri>
    OPENAI_API_KEY=<your_openai_api_key>
-   ```
+   ````
 4. Start the backend:
 
    ```bash
    npm run server
-   ```
+   ````
 5. Start the frontend:
 
    ```bash
    npm start
-   ```
+   ````
 
 ## Contribution
 

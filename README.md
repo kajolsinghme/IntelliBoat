@@ -22,7 +22,6 @@
 
 2. Install dependencies:
 
-   ```
    cd IntelliBoat
    npm install
    ````

@@ -22,7 +22,7 @@
 
 2. Install dependencies:
 
-   ```bash
+   ```
    cd IntelliBoat
    npm install
    ````

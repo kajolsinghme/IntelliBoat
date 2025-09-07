@@ -12,7 +12,7 @@
 - **Frontend:** React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **AI Integration:** OpenAI API (for text and image generation)
+- **AI Integration:** Gemini API (for text and image generation)
 
 ## Setup Instructions
 1. Clone the repository:

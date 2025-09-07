@@ -12,7 +12,7 @@
 - **Frontend:** React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **AI Integration:** OpenAI API (for text and image generation)
+- **AI Integration:** Gemini API (for text and image generation)
 
 ## Setup Instructions
 1. Clone the repository:
@@ -30,7 +30,7 @@
    ```
    PORT=5000
    MONGO_URI=<your_mongodb_uri>
-   OPENAI_API_KEY=<your_openai_api_key>
+   GEMINI_KEY=<your_gemini_api_key>
    ````
 4. Start the backend:
 

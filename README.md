@@ -30,7 +30,7 @@
    ```
    PORT=5000
    MONGO_URI=<your_mongodb_uri>
-   OPENAI_API_KEY=<your_openai_api_key>
+   GEMINI_KEY=<your_gemini_api_key>
    ````
 4. Start the backend:
 
